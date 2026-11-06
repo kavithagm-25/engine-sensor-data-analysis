@@ -35,12 +35,11 @@ The goal is to understand engine performance, identify sensor trends, and detect
 
 ## Dashboard
 
-The Power BI dashboard includes:
+## Power BI Dashboard
 
-- Total Engines
-- Average Engine Lifetime
-- Engine 1 Sensor 11 Trend
-- Top 5 Engines by Operating Lifetime
+The dashboard provides an overview of engine performance, including total engines, average operating lifetime, Sensor 11 trends, and the five longest-running engines.
+
+![Engine Performance Dashboard](dashboards/dashboard.png)
 
 ## Skills Demonstrated
 
